@@ -1,0 +1,50 @@
+
+html {
+    background-color: #0074D9;
+    background-image: url(../img/LineScreen.png);
+      background-position: 0 0,50% 50%;
+      background-size: 1px 2px,cover;
+      background-repeat: repeat,repeat;
+      background-attachment: fixed,fixed;
+}
+
+body {
+    font-family: 'Alegreya Sans', sans-serif;
+    font-size: 100%;
+    color: #aaaaaa;
+}
+
+.xdebug-var-dump {
+    font-family: 'Source Code Pro';
+}
+
+#container {
+    margin: 50px auto;
+    width: 500px;
+    padding: 25px 50px;
+    background-color: #f2f2f2;
+    border-top: 5px solid #7FDBFF;
+}
+
+h1.fancy {
+    color: #0074D9;
+    font-size: 55px;
+    font-weight: 300;
+    margin: 0;
+}
+
+ul.list {
+    list-style: square;
+    font-size: 21px;
+    color: gray;
+}
+
+hr { 
+    display: block; 
+    height: 1px;
+    border: 0; 
+    border-top: 1px 
+    solid #ccc;
+    margin: 1em 0; 
+    padding: 0; 
+}
